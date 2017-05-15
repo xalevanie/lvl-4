@@ -208,7 +208,7 @@
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 1,
@@ -217,7 +217,7 @@
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 1,
@@ -226,7 +226,7 @@
 		},
 	"\/js\/semantic.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 1,
@@ -2017,7 +2017,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
