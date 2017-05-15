@@ -95,7 +95,7 @@
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 39826,
+		"iS": 44770,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -106,7 +106,7 @@
 		},
 	"\/img\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 223203,
+		"iS": 280072,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
@@ -117,7 +117,7 @@
 		},
 	"\/img\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 35625,
+		"iS": 39721,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -134,7 +134,7 @@
 		},
 	"\/img\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1237,
+		"iS": 1202,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -145,7 +145,7 @@
 		},
 	"\/img\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 2272,
+		"iS": 2464,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -170,7 +170,7 @@
 		},
 	"\/img\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 20590,
+		"iS": 22265,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
@@ -195,7 +195,7 @@
 		"oA": 0,
 		"oAP": "\/docs\/img\/menu.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
@@ -240,7 +240,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 513040678,
-	"displayValue": "web-3-starter",
+	"displayValue": "lvl-4",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
 	"lastBuiltDate": 515630358
