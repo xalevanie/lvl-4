@@ -209,9 +209,9 @@
 	"\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/js\/jquery.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
@@ -220,16 +220,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/docs\/js\/scripts.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/semantic.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/js\/semantic.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		}
@@ -246,7 +246,7 @@
 	"lastBuiltDate": 515630358
 	},
 "projectSettings": {
-	"abortBuildOnError": 0,
+	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
